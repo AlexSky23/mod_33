@@ -1,0 +1,10 @@
+{
+  "name": "mod331",
+  "version": "1",
+  "description": "123",
+  "main": "index.js",
+  "repository": "git remote add origin https://github.com/AlexSky23/mod_33.git",
+  "author": "AlexS",
+  "license": "MIT",
+  "private": true
+}
